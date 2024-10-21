@@ -1,7 +1,5 @@
 # Matador-Spil
-Selvfølgelig! Her er et forslag til en `README.md`-fil for et Matador-spil projekt skabt i Java, skrevet på dansk:
 
-```markdown
 # Matador Spil
 
 Dette er et Matador-spil udviklet i Java. Spillet er en digital version af det klassiske brætspil, hvor spillere kan købe ejendomme, bygge huse, og forsøge at ruinere deres modstandere ved at få dem til at lande på deres ejendomme. Formålet med spillet er at blive den rigeste spiller og få de andre spillere til at gå bankerot.
@@ -95,4 +93,3 @@ Projektlink: [https://github.com/dinbrugernavn/MatadorSpil](https://github.com/d
 - **Spilbeskrivelse & regler**: Kort oversigt over, hvordan spillet fungerer, og hvilke regler der gælder.
 - **Projektstruktur**: Forklaring af fil- og klassestrukturen for at hjælpe udviklere med at navigere i koden.
 
-Lad mig vide, hvis du har yderligere tilpasninger eller ændringer, du vil tilføje!
