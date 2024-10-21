@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b8b5f32-414c-4217-a550-98771fdc8f27" name="Changes" comment="Rettet sidste fejl inden mvp" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K98akhmIn4TGFqB8Tvb0zUfX46" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+    &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    }
+    }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MatadorGruppe9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b8b5f32-414c-4217-a550-98771fdc8f27" name="Changes" comment="" />
+      <created>1673375503882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673375503882</updated>
+      <workItem from="1673375505219" duration="2504000" />
+      <workItem from="1673378313525" duration="160000" />
+      <workItem from="1673435230788" duration="353000" />
+      <workItem from="1673859213500" duration="61000" />
+      <workItem from="1673989185194" duration="1160000" />
+    </task>
+    <task id="LOCAL-00001" summary="rettet enkelte fejl, comittet spillerliste, spiller samt smit gui ind i xml">
+      <created>1673377482134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673377482134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Parking">
+      <created>1673377696802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673377696802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fikset ownable">
+      <created>1673377818944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673377818944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rettet sidste fejl inden mvp">
+      <created>1673378176056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673378176056</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Rettet sidste fejl inden mvp">
+      <created>1673989321945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673989321945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kommntar hej" />
+    <MESSAGE value="Ændret filstruktur" />
+    <MESSAGE value="Ændret filstruktur samt tilføjet brewery" />
+    <MESSAGE value="Lavet abstrakt klasse til field med gennemgående attributer" />
+    <MESSAGE value="Oprettet spillerliste" />
+    <MESSAGE value="ændret filstruktur plus oprettet chancecard abstrakt" />
+    <MESSAGE value="Oprettet flere felter" />
+    <MESSAGE value="Har oprettet receive money og withdraw samt deres metoder" />
+    <MESSAGE value="Har oprettet go to jail, løsladelsedskort og movetoferry" />
+    <MESSAGE value="movefield amouunt rettet" />
+    <MESSAGE value="rettet i spil" />
+    <option name="LAST_COMMIT_MESSAGE" value="rettet i spil" />
+    <MESSAGE value="tilføjet til spil" />
+    <option name="LAST_COMMIT_MESSAGE" value="tilføjet til spil" />
+  </component>
+</project>
