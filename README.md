@@ -1,5 +1,3 @@
-# Matador-Spil
-
 # Matador Spil
 
 Dette er et Matador-spil udviklet i Java. Spillet er en digital version af det klassiske brætspil, hvor spillere kan købe ejendomme, bygge huse, og forsøge at ruinere deres modstandere ved at få dem til at lande på deres ejendomme. Formålet med spillet er at blive den rigeste spiller og få de andre spillere til at gå bankerot.
@@ -75,21 +73,4 @@ Projektet er opdelt i flere klasser for at adskille funktionalitet og gøre kode
 ## Bidrag
 
 Vi modtager gerne bidrag! Hvis du har idéer eller forbedringsforslag, kan du enten oprette en pull request eller åbne en issue.
-
-## Licens
-
-Dette projekt er licenseret under MIT-licensen - se filen `LICENSE` for flere oplysninger.
-
-## Kontakt
-
-Dit Navn - [@dinTwitter](https://twitter.com/dinTwitter) - din.email@eksempel.com
-
-Projektlink: [https://github.com/dinbrugernavn/MatadorSpil](https://github.com/dinbrugernavn/MatadorSpil)
-```
-
-### Hvad README-filen indeholder:
-- **Funktioner**: Beskrivelse af de vigtigste spilfunktioner.
-- **Forudsætninger & Installation**: Instruktioner til at sætte spillet op lokalt.
-- **Spilbeskrivelse & regler**: Kort oversigt over, hvordan spillet fungerer, og hvilke regler der gælder.
-- **Projektstruktur**: Forklaring af fil- og klassestrukturen for at hjælpe udviklere med at navigere i koden.
 
